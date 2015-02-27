@@ -1,0 +1,17 @@
+Cai_ Project
+
+
+
+Qifang Cai   + ID:  qcai
+
+
+
+This project is going to create a traditional Snake game in a 3D setting.
+The project relies merely on Tkinter. (In other word, I have no module used)
+Animation will be used as a primary super class that handles the animation.
+The game features wandering on both 6 faces of a cube.
+There will be items that snake can eat to grow, speed up, and die.
+The field is not totally clean, there might be some hills and rocks
+that snake just can go across.
+Your total score will be stored, the highest score will be updated.
+Hope you enjoy the game.

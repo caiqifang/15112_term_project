@@ -1,0 +1,11 @@
+Competitive Analysis:
+
+
+
+There are some 3D snake games created and uploaded by people. I can find 
+a lot of samples from Youtube. However, what I am trying to do is to create
+the 3D wandering in a first person view, not from a third person view. It is
+easier for players to understand the game. For most of the games that I see 
+on Youtube, they are either too simple or too complicated. The simple one
+has cheap graphing and the complicated one gives players a headache. I want
+to create a game that is casual and fun to play with for a short time. 

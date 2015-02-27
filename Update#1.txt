@@ -1,0 +1,13 @@
+Qifang Cai
+
+
+Update #1 :
+
+
+Create new class Cloud, which controls the behavior of the clouds.
+
+
+Create new class Grid, which controls the behavior of the ground.
+
+
+All these two class are now functionable. 
